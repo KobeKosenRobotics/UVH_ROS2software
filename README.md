@@ -8,8 +8,8 @@ UVH system for ROS2
 ## 1. Setup
 ```bash
 cd ~/{your_workspace}/src
-git clone https://github.com/KobeKosenRobotics/UVH_ROS2softwear.git
-./UVH_ROS2softwear/setup.bash
+git clone https://github.com/KobeKosenRobotics/UVH_ROS2software.git
+./UVH_ROS2software/setup.bash
 ```
 
 ## 2. Launch
